@@ -1,0 +1,191 @@
+body{
+    background-color: white;
+}
+.topic{
+    color: black;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 700px;
+}
+
+.topicpara{
+    color: black;
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.topipoo{
+    color: black;
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.section1{
+    margin-left: 300px;
+  
+  
+  
+}
+.border{
+/* border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: white; */
+  border: 2px solid white;
+  border-radius: 30px;
+  padding: 5px;
+  width: 100px;
+  margin-left: 200px;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+}
+/* .border p {
+    text-transform: capitalize;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold; */
+/* } */
+.none{
+   text-decoration: none;
+}
+.section2{
+    margin-left: 300px;
+}
+.section2 h2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    
+}
+.section2 .topipoo{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+}
+
+.section2 small{
+    color: goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.subscribe{
+background-color: red;
+color: white;
+
+}
+.navhref ul{
+    list-style-type: none;
+}
+.alltopic{
+    text-decoration: none;
+    border-radius: 50px;
+    box-shadow: 1px 1px 1px 1px;
+    background-color: red;
+}
+.design{
+    text-decoration: none;
+    border-radius: 50px;
+    box-shadow: 1px 1px 1px 1px;
+}
+.web{
+    text-decoration: none;
+    border-radius: 50px;
+    box-shadow: 1px 1px 1px 1px;
+}
+.iOS{
+    text-decoration: none;
+    border-radius: 25px;
+    box-shadow: 1px 1px 1px 1px;
+    border: 2px;
+}
+.Android{
+    text-decoration: none;
+    border-radius: 25px;
+    border-style: thin;
+    box-shadow: 1px 1px 1px 1px;
+    box-sizing: border-box;
+}
+
+.section3{
+    margin-left: 300px;
+}
+
+.navhref ul{
+    margin-left: 300px;  
+    display: flex;
+    gap: 50px;
+}
+.news{text-decoration: none;}
+.open{text-decoration: none;}
+.this{ text-decoration: none;}
+
+
+.section3 div input[type="text"] {
+    width: 500px;
+    height: 30px;
+}
+
+.section3 div input[type="submit"] {
+ 
+    height: 35px;
+    background-color: #c30000;
+    color: white;
+}
+
+.section3 div{
+    background-color: #0000006b;
+    width: 700px;
+    height: 200px;
+   padding-left: 20px;
+   
+}
+
+.section3 div h1{
+   font-size: 40px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.section4{
+    margin-left: 300px;
+}
+
+
+.an{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+   letter-spacing: 10px;
+   text-decoration: none;
+   
+}
+
+.pages{ text-align: center;
+
+    margin: 100px auto;
+}
+
+
+.section5{
+    margin-left: 300px;
+}
+.shadow{
+    background-color:rgb(240,240,248) ;
+    box-shadow: 1px 1px 1px 1px ;
+    width: 550px;
+}
+.three span{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.two span{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.one span{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
